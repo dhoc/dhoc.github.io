@@ -13,7 +13,7 @@ pertama.addEventListener('click', () => {
     top: 50,
     right: 50,
     bottom: 50,
-    left: 10,
+    left: 1,
     mount: pertamaContent,
     onfocus: function () {
       this.setBackground('#00aa00')
@@ -32,7 +32,7 @@ kedua.addEventListener('click', () => {
     top: 90,
     right: 50,
     bottom: 50,
-    left: 20,
+    left: 1,
     mount: keduaContent,
     onfocus: function () {
       this.setBackground('#00aa00')
@@ -51,7 +51,7 @@ ketiga.addEventListener('click', () => {
     top: 130,
     right: 50,
     bottom: 50,
-    left: 30,
+    left: 1,
     mount: ketigaContent,
     onfocus: function () {
       this.setBackground('#00aa00')
